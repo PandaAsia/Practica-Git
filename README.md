@@ -2,6 +2,8 @@
 
 Es un mini proyecto enfocado en la práctica y familiarización con los comandos de Git.
 
+[Curso de Git y GitHub](https://www.notion.so/Curso-de-Git-y-GitHub-bae02d49cd0240dd9a4f5f409b463149?pvs=4)
+
 ## Stack de Tecnologia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
